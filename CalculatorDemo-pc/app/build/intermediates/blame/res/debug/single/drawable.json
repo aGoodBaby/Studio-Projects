@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\fengdeyu\\StudioProjects\\CalculatorDemo-pc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white_bg.xml",
+        "source": "C:\\Users\\fengdeyu\\StudioProjects\\CalculatorDemo-pc\\app\\src\\main\\res\\drawable\\white_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\fengdeyu\\StudioProjects\\CalculatorDemo-pc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_selector.xml",
+        "source": "C:\\Users\\fengdeyu\\StudioProjects\\CalculatorDemo-pc\\app\\src\\main\\res\\drawable\\orange_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\fengdeyu\\StudioProjects\\CalculatorDemo-pc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_bg.xml",
+        "source": "C:\\Users\\fengdeyu\\StudioProjects\\CalculatorDemo-pc\\app\\src\\main\\res\\drawable\\red_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\fengdeyu\\StudioProjects\\CalculatorDemo-pc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gray_bg.xml",
+        "source": "C:\\Users\\fengdeyu\\StudioProjects\\CalculatorDemo-pc\\app\\src\\main\\res\\drawable\\gray_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\fengdeyu\\StudioProjects\\CalculatorDemo-pc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\white_selector.xml",
+        "source": "C:\\Users\\fengdeyu\\StudioProjects\\CalculatorDemo-pc\\app\\src\\main\\res\\drawable\\white_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\fengdeyu\\StudioProjects\\CalculatorDemo-pc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\orange_bg.xml",
+        "source": "C:\\Users\\fengdeyu\\StudioProjects\\CalculatorDemo-pc\\app\\src\\main\\res\\drawable\\orange_bg.xml"
+    }
+]

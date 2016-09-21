@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="hdpi"
+    format="7"
+    timestamp="532889492191354"
+    token="-3517073813727517410"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="87" />
+    <task
+        name="instant-run-dex"
+        duration="422" />
+    <task
+        name="instant-run-transform"
+        duration="27" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="C:\Users\fengdeyu\StudioProjects\CalculatorDemo-pc\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="532063549576765" >
+        <artifact
+            location="C:\Users\fengdeyu\StudioProjects\CalculatorDemo-pc\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="532360976474936"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\fengdeyu\StudioProjects\CalculatorDemo-pc\app\build\intermediates\builds\debug\532360976474936\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="532396734649777"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\fengdeyu\StudioProjects\CalculatorDemo-pc\app\build\intermediates\builds\debug\532396734649777\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="532463766800569"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\fengdeyu\StudioProjects\CalculatorDemo-pc\app\build\intermediates\builds\debug\532463766800569\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="532597187257674"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\fengdeyu\StudioProjects\CalculatorDemo-pc\app\build\intermediates\builds\debug\532597187257674\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="532650138937811"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\fengdeyu\StudioProjects\CalculatorDemo-pc\app\build\intermediates\builds\debug\532650138937811\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="532695795372813"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\fengdeyu\StudioProjects\CalculatorDemo-pc\app\build\intermediates\builds\debug\532695795372813\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="532720279060344"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\fengdeyu\StudioProjects\CalculatorDemo-pc\app\build\intermediates\builds\debug\532720279060344\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="532761988874581"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\fengdeyu\StudioProjects\CalculatorDemo-pc\app\build\intermediates\builds\debug\532761988874581\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="532800052782541"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\fengdeyu\StudioProjects\CalculatorDemo-pc\app\build\intermediates\builds\debug\532800052782541\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="532845410288317"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\fengdeyu\StudioProjects\CalculatorDemo-pc\app\build\intermediates\builds\debug\532845410288317\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="532889492191354"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\fengdeyu\StudioProjects\CalculatorDemo-pc\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
